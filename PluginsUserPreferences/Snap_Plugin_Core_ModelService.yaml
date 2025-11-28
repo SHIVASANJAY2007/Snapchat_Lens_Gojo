@@ -1,0 +1,11 @@
+ExternalSources:
+  type: "std::map<class Es::Uuid,class Es::Path,struct std::less<class Es::Uuid>,class std::allocator<struct std::pair<class Es::Uuid const ,class Es::Path> > >"
+  value:
+    - 01ea6f4b-351a-4742-bf3a-121e8ccb1875: "D:/Downloads/New folder/JsPlugins/PresetsRegistry/Assets/Resources/flat.ss_graph"
+    - 09b869b8-2889-4281-b9ea-2ddf13c3e779: "D:/Downloads/New folder/JsPlugins/PresetsRegistry/Assets/ImageMaterial/Resources/Image.png"
+    - 115c7d3c-9f12-4062-b27e-4ee0df44c177: "D:/Downloads/New folder/JsPlugins/PresetsRegistry/Assets/OccluderMaterial/Resources/occluder.ss_graph"
+    - 588db221-124c-46a9-b013-5e08130011d7: "D:/Downloads/New folder/JsPlugins/PresetsRegistry/Assets/FaceMaskMaterial/Resources/FaceMaskOpacity.jpg"
+    - 89ee6ad4-d58a-46dc-bf0a-017fb5f2d1ab: "D:/Downloads/New folder/JsPlugins/PresetsRegistry/Assets/Meshes/Resources/Head.mesh"
+    - cf758721-becd-4b70-94b1-9d9bf9c5d8ed: "D:/Downloads/New folder/JsPlugins/PresetsRegistry/Assets/FaceMaskMaterial/Resources/FaceMask.png"
+    - e666d371-f423-4e43-ba95-a022641938a4: "C:/Users/sanju/Downloads/ca7ebe290fa90aca08ce57ed8b700656-removebg-preview (1).png"
+  options: 4

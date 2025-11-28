@@ -1,0 +1,16 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 10
+    values:
+      - Face Mask.mat
+      - FaceMask.png
+      - FaceMaskOpacity.jpg
+      - Head.mesh
+      - Image.mat
+      - Image.png
+      - Occluder.mat
+      - ca7ebe290fa90aca08ce57ed8b700656-removebg-preview (1).png
+      - flat.ss_graph
+      - occluder.ss_graph
+  options: 4

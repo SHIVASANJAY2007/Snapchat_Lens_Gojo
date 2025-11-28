@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    0adae9cc-9db2-442e-9817-0b785c976e6d: 1f6f385c-915f-4213-82d5-b80ad6f06436/9833281419310725ca4dae00e7336e3a/Data/luffy-hat-png-images-11717691951seputc9gxc-removebg-preview.png
+  Assets:
+    - !<FileTexture/0adae9cc-9db2-442e-9817-0b785c976e6d>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 500
+        Height: 500
+  SourceHash: 9833281419310725ca4dae00e7336e3a
+  FileHash: 5bb6098d95909caaeed9c8d93733a651
+  NativePackageItems:
+    []

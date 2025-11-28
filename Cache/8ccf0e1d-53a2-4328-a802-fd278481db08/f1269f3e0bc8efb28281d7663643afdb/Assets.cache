@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    3100861f-26d6-4d7a-b4fd-d065e09d6600: 8ccf0e1d-53a2-4328-a802-fd278481db08/f1269f3e0bc8efb28281d7663643afdb/Data/po.png
+  Assets:
+    - !<FileTexture/3100861f-26d6-4d7a-b4fd-d065e09d6600>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 360
+        Height: 360
+  SourceHash: f1269f3e0bc8efb28281d7663643afdb
+  FileHash: 17cfc2914769227cfb16262391d4649b
+  NativePackageItems:
+    []

@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    d33ad46c-d35c-4a06-8443-521ab4be556e: 825f5099-633a-4e19-8965-e175e1179918/19aa5a03102520a7395e52ee6b5c5be5/Data/images__4_-removebg-preview.png
+  Assets:
+    - !<FileTexture/d33ad46c-d35c-4a06-8443-521ab4be556e>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 433
+        Height: 116
+  SourceHash: 19aa5a03102520a7395e52ee6b5c5be5
+  FileHash: 915e994bfab7590131d1695352b99e39
+  NativePackageItems:
+    []

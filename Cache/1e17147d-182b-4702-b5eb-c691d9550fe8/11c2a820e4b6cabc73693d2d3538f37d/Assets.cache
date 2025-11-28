@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    f03e351e-433e-4927-8aec-9892ad2642b2: 1e17147d-182b-4702-b5eb-c691d9550fe8/11c2a820e4b6cabc73693d2d3538f37d/Data/pngaaa.com-21890.png
+  Assets:
+    - !<FileTexture/f03e351e-433e-4927-8aec-9892ad2642b2>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 497
+        Height: 284
+  SourceHash: 11c2a820e4b6cabc73693d2d3538f37d
+  FileHash: 17c64f32b4e57dcd67497fb5377cd360
+  NativePackageItems:
+    []

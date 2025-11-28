@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    95aef93c-58fc-4280-a933-73eacce066da: c65717a4-9be8-42c0-95c3-93d0d33c701d/f1269f3e0bc8efb28281d7663643afdb/Data/png-transparent-snapchat-graphic-filter-we-heart-it-browse-and-snapchat-filters-s-miscellaneous-image-file-formats-desktop-wallpaper-thumbnail.png
+  Assets:
+    - !<FileTexture/95aef93c-58fc-4280-a933-73eacce066da>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 360
+        Height: 360
+  SourceHash: f1269f3e0bc8efb28281d7663643afdb
+  FileHash: 17cfc2914769227cfb16262391d4649b
+  NativePackageItems:
+    []

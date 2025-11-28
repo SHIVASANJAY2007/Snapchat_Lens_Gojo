@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    f2bc827d-8180-429a-8444-40798439fe55: 3a057d5b-726b-4f57-aaec-983e79c553c8/d2a020130ea69dcb0f4df3b787b36744/Data/po-removebg-preview.png
+  Assets:
+    - !<FileTexture/f2bc827d-8180-429a-8444-40798439fe55>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 360
+        Height: 360
+  SourceHash: d2a020130ea69dcb0f4df3b787b36744
+  FileHash: 913383e88ae3de07a8e751225270e0b8
+  NativePackageItems:
+    []

@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    da29a30c-bad9-4c44-9a22-c766194d0b3a: "2159401f-bc0f-4ba8-85bc-ce814a40f8e0/a39841965d4a1886bebdeff54129876d/Data/206-2067521_images-kaneki-ghoul-face-[updated]-tokyo-ghoul-eye-png.png"
+  Assets:
+    - !<FileTexture/da29a30c-bad9-4c44-9a22-c766194d0b3a>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 317
+        Height: 129
+  SourceHash: a39841965d4a1886bebdeff54129876d
+  FileHash: 0f4ed0107af3393cec334136a40ddd3f
+  NativePackageItems:
+    []

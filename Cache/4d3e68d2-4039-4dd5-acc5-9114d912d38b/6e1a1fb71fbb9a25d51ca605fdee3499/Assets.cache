@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    c682064a-c474-44d9-8bc2-ed43906ee613: 4d3e68d2-4039-4dd5-acc5-9114d912d38b/6e1a1fb71fbb9a25d51ca605fdee3499/Data/png-clipart-motorcycle-helmets-bicycle-helmets-airoh-motorcycle-helmets-technic-motorcycle-thumbnail.png
+  Assets:
+    - !<FileTexture/c682064a-c474-44d9-8bc2-ed43906ee613>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 348
+        Height: 348
+  SourceHash: 6e1a1fb71fbb9a25d51ca605fdee3499
+  FileHash: ddf2b62fa389074013bd295bcc83025c
+  NativePackageItems:
+    []

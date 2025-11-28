@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    03c324e6-1776-4d6e-bad6-4d2da712c31b: 7147011b-6c62-4383-9110-12d5e0c4d074/687877adcbce8e40013be175facd5912/Data/pngtree-glitch-effect-border-design-png-image_5980409-removebg-preview.png
+  Assets:
+    - !<FileTexture/03c324e6-1776-4d6e-bad6-4d2da712c31b>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 500
+        Height: 500
+  SourceHash: 687877adcbce8e40013be175facd5912
+  FileHash: 8a46630f47f2f607b067ee2e2d4db3ac
+  NativePackageItems:
+    []
